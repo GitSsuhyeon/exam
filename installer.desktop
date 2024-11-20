@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=방화벽 설치 마법사
+Comment=방화벽 어플을 설치하는 프로그램입니다.
+Exec=sudo python3 /home/user/Desktop/install.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
